@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Satyajit Das
 - 👀 I’m interested in Machine learning
 - 🌱 I’m currently learning Javascript
-- 💞️ I’m looking to collaborate on ML
+- 💞️ I’m looking to collaborate on ML and DL
 - 📫 How to reach me Satyajitds5@gmail.com
 
 <!---
